@@ -370,11 +370,33 @@ ul li::before {
 .section-five-image-container {
     width: 100%;
     height: auto;
+    position: relative;
+}
+
+.section-five-info {
+    position: absolute;
+    left: 25px;
+    top: 50px;
+    z-index: 98;
+    width: auto;
+}
+
+.section-five-info p {
+    margin: 0 auto;
+    font-size: 25px;
+    width: auto;
+}
+
+#logo-bot {
+    width: 140px;
+    height: 70px;
+    float: left;
 }
 
 .section-five-image-container img {
     width: 100%;
     height: auto;
+    -webkit-filter: brightness(70%);
 }
 
 #myBtn {
