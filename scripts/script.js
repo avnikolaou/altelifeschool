@@ -48,3 +48,14 @@ function topFunction() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
 }
+
+// Functions to scroll to specific sections
+function scrollToBook() {
+    let elmnt = document.getElementById("book");
+    elmnt.scrollIntoView();
+}
+
+function scrollToLearn() {
+    let elmnt = document.getElementById("inform");
+    elmnt.scrollIntoView();
+}

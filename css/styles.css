@@ -391,6 +391,7 @@ ul li::before {
     width: 140px;
     height: 70px;
     float: left;
+    -webkit-filter: brightness(100%);
 }
 
 .section-five-image-container img {
