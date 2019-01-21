@@ -330,20 +330,36 @@ ul li::before {
     height: 25%;
 }
 
+.section-four-category-icon {
+    width: auto;
+    height: 30px;
+    font-size: 50px;
+    margin: auto;
+    color: rgb(247, 222, 0);
+}
+
+
+.section-four-category-text {
+    width: 90%;
+}
+
 .section-four-category-left {
     width: 50%;
     float: left;
+    display: flex;
 }
 
 .section-four-category-right {
     width: 50%;
     float: right;
-    margin: 50px auto;
+    margin: 50px -50px auto;
+    display: flex;
 }
 
 .section-four-category p {
     font-size: 30px;
     color: white;
+    padding-left: 20px;
 }
 
 .section-five {
