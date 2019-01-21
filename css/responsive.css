@@ -219,6 +219,26 @@
     #logo-bot {
         display: none;
     }
+
+    #section-two-top-text {
+        font-size: 30px;
+    }
+
+    #section-two-top-text {
+        font-size: 20px;
+    }
+
+    #section-two li {
+        font-size: 17px;
+    }
+
+    .section-three-heading h3 {
+        font-size: 30px;
+    }
+
+    .section-four-heading h3 {
+        font-size: 30px;
+    }
 }
 
 @media screen and (max-width: 450px){
@@ -249,6 +269,10 @@
 
     #text-container-bot {
         font-size: 16px;
+    }
+
+    .section-four-category-right {
+        margin: auto;
     }
 }
 
