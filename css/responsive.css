@@ -1,0 +1,167 @@
+@media screen and (max-width: 1260px) {
+    .buttons-container {
+        margin-top: 150px;
+    }
+
+    .secttion-two-image-container img {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 1050px) {
+    .section-five-image-container img {
+        -webkit-filter: brightness(50%);
+    }
+
+    .text-heading {
+        top: 50px;
+    }
+
+    .text-commnets {
+        bottom: 100px;
+    }
+
+    .prev {
+        font-size: 35px;
+    }
+
+    .next {
+        font-size: 35px;
+    }
+
+    .section-two-footer-container a {
+        padding: 35px 35px;
+    }
+
+    .section-five p {
+        width: 75%;
+    }
+
+    .section-five-info p {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .text-container {
+        width: 50%;
+    }
+
+    .section-one {
+        height: 790px;
+    }
+
+    .section-two-contaier {
+        margin-top: 25px;
+    }
+
+    .section-two-footer-container {
+        margin-top: 50px;
+    }
+
+    .secttion-two {
+        height: 850px;
+    }
+
+    .section-three {
+        height: 900px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .buttons-container {
+        margin-top: 50px;
+    }
+
+    .secttion-two {
+        height: 950px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .text-container {
+        width: 75%;
+    }
+
+    .section-one {
+        height: auto;
+    }
+
+    .text-heading {
+        top: 0;
+    }
+
+    .text-commnets {
+        bottom: 75px;
+    }
+
+    .secttion-two {
+        height: auto;
+    }
+
+    .section-two-footer-container {
+        width: 100%;
+    }
+
+    .section-three {
+        height: auto;
+    }
+
+    .section-four {
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .logo {
+        width: 200px;
+        height: 70px;
+    }
+
+    .section-two-contaier {
+        width: 90%;
+    }
+
+    .text-heading {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .text-heading {
+        font-size: 40px;
+    }
+
+    .text-commnets {
+        bottom: 10px;
+    }
+
+    #section-two-top-text {
+        font-size: 35px;
+    }
+
+    #section-two-bot-text {
+        font-size: 25px;
+    }
+
+    .secttion-two li {
+        font-size: 18px;
+    }
+
+    .section-five-info p {
+        font-size: 20px;
+    }
+
+    .span-title {
+        font-size: 20px;
+    }
+
+    .span-subtitle {
+        font-size: 14px;
+    }
+
+    .section-two-footer-container a {
+        font-size: 15px;
+    }
+}
