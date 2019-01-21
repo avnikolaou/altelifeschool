@@ -8,9 +8,15 @@
     /*}*/
 
     .section-two-text-container {
-        margin-left: 0;
+        margin-left: 20px;
     }
 
+}
+
+@media screen and (max-width: 1200px){
+    .section-two-contaier {
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 1050px) {

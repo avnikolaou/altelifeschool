@@ -76,7 +76,7 @@ body {
 }
 
 .section-two-contaier {
-    /*width: 65%;*/
+    width: 75%;
     margin-top: 150px;
     display: inline-flex;
     align-items: center;
@@ -90,6 +90,7 @@ body {
 .section-two img {
     width: 540px;
     height: 720px;
+    -webkit-filter: brightness(80%);
 }
 
 #section-two-top-text {
