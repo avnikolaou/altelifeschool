@@ -3,11 +3,11 @@
         margin-top: 150px;
     }
 
-    .secttion-two-image-container img {
+    .section-two-image-container img {
         display: none;
     }
 
-    .secttion-two-text-container {
+    .section-two-text-container {
         margin-left: 0;
     }
 
@@ -64,7 +64,7 @@
         margin-top: 50px;
     }
 
-    .secttion-two {
+    .section-two {
         height: 850px;
     }
 
@@ -78,7 +78,7 @@
         margin-top: 50px;
     }
 
-    .secttion-two {
+    .section-two {
         height: 950px;
     }
 }
@@ -100,7 +100,7 @@
         bottom: 75px;
     }
 
-    .secttion-two {
+    .section-two {
         height: auto;
     }
 
@@ -173,7 +173,7 @@
         font-size: 25px;
     }
 
-    .secttion-two li {
+    .section-two li {
         font-size: 18px;
     }
 

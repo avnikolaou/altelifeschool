@@ -69,7 +69,7 @@ body {
     text-align: left;
 }
 
-.secttion-two {
+.section-two {
     width: 100%;
     height: 1200px;
     text-align: center;
@@ -82,12 +82,12 @@ body {
     align-items: center;
 }
 
-.secttion-two-text-container {
+.section-two-text-container {
     margin-left: 30px;
     text-align: justify;
 }
 
-.secttion-two img {
+.section-two img {
     width: 500px;
     height: 350px;
 }
@@ -101,7 +101,7 @@ body {
     font-size: 35px;
     color: white;
 }
-.secttion-two li {
+.section-two li {
     color: white;
     font-size: 22px;
 }
