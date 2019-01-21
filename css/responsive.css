@@ -7,6 +7,10 @@
         display: none;
     }
 
+    .secttion-two-text-container {
+        margin-left: 0;
+    }
+
 }
 
 @media screen and (max-width: 1050px) {
