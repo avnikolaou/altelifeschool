@@ -76,7 +76,7 @@ body {
 }
 
 .section-two-contaier {
-    width: 65%;
+    /*width: 65%;*/
     margin-top: 150px;
     display: inline-flex;
     align-items: center;
