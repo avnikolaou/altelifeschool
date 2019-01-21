@@ -251,3 +251,42 @@
         font-size: 16px;
     }
 }
+
+@media screen and (max-width: 400px) {
+
+    .section-four-category-icon {
+        font-size: 17px;
+    }
+
+    .section-four-category p {
+        font-size: 12px;
+    }
+
+    .text-heading {
+        font-size: 30px;
+    }
+
+    .text-commnets {
+        font-size: 14px;
+    }
+
+    .prev {
+        font-size: 30px;
+    }
+
+    .next {
+        font-size: 30px;
+    }
+
+    .span-title {
+        font-size: 17px;
+    }
+
+    .span-subtitle {
+        font-size: 12px;
+    }
+
+    .section-two-footer-container a {
+        padding: 20px 20px;
+    }
+}
