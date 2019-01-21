@@ -259,6 +259,14 @@
     .section-four-heading h3 {
         font-size: 30px;
     }
+
+    .prev {
+        padding: 0;
+    }
+
+    .next {
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 450px){
