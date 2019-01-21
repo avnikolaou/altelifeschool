@@ -216,20 +216,17 @@
         float: none;
         margin: 0;
     }
+
+    #myBtn {
+        bottom: 0;
+        right: 0;
+    }
 }
 
 @media screen and (max-width: 500px){
     .logo {
         padding: 20px 25px 5px 25px;
     }
-
-    /*.section-four-category-icon {*/
-        /*font-size: 25px;*/
-    /*}*/
-
-    /*.section-four-category p {*/
-        /*font-size: 20px;*/
-    /*}*/
 
     #logo-bot {
         display: none;
