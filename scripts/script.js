@@ -52,10 +52,10 @@ function topFunction() {
 // Functions to scroll to specific sections
 function scrollToBook() {
     let elmnt = document.getElementById("book");
-    elmnt.scrollIntoView();
+    elmnt.scrollIntoView({behavior: "smooth"});
 }
 
 function scrollToLearn() {
     let elmnt = document.getElementById("inform");
-    elmnt.scrollIntoView();
+    elmnt.scrollIntoView({behavior: "smooth", block: "start"});
 }
